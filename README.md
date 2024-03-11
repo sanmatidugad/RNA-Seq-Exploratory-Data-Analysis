@@ -1,5 +1,5 @@
-#### RNA-Seq-Exploratory-Data-Analysis \
-Exploring a couple of aspects of RNA-seq data. \
+#### RNA-Seq-Exploratory-Data-Analysis 
+Exploring a couple of aspects of RNA-seq data. 
 1. K-Means clustering
 2. Hierarchila Clustering
 3. Time Seriers Analysis.
