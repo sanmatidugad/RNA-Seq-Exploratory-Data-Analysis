@@ -1,14 +1,14 @@
 #### RNA-Seq-Exploratory-Data-Analysis 
 Exploring a couple of aspects of RNA-seq data. 
 1. K-Means clustering
-2. Hierarchila Clustering
-3. Time Seriers Analysis.
+2. Hierarchial Clustering
+3. Time Series Analysis.
 4. Principal Component Analysis
 5. Heatmap
 6. T-SNE visualization
 7. UMAP visualization
 8. Sampling Simulaiton \
-     a. Random Sampling (500, 5000 and 50000) \
+     a. Random Sampling (500, 5000 and 50000 rows) \
      b. Calculating Mean, Variance, Abundance (Abundance = row_sum/ total_sum) \
      c. LinearRegression - poisson distribution vs normal distribution - Central Limit Theorem
 9. Differential Gene Expression Analysis \
